@@ -1,5 +1,7 @@
 # Module_20_Challenge_Solidity
 
+![](Images/20-5-challenge-image.png)
+
 ## Background
 A fintech startup company has recently hired you. This company is disrupting the finance industry with its own cross-border, Ethereum-compatible blockchain that connects financial institutions. Currently, the team is building smart contracts to automate many of the institutions’ financial processes and features, such as hosting joint savings accounts.
 
@@ -10,4 +12,4 @@ The completed JointSavings Solidity smart contract.
 
 A folder named Execution_Results that contains at least eight images. These images should confirm that the deposit and withdrawal transactions, which are designed to test the JointSavings functionality in the JavaScript VM, worked as expected.
 
-Note: Please see Joint_Savings_solution.sol file for the completed assignment code
+`Note: Please see Joint_Savings_solution.sol file for the completed assignment code`
